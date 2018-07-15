@@ -10,6 +10,7 @@ namespace TestGitCommand
 	{
 		static void Main(string[] args)
 		{
+			Console.Write("SSS");
 		}
 	}
 }
